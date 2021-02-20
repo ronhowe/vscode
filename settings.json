@@ -1,0 +1,27 @@
+{
+    "editor.mouseWheelZoom": true,
+    "editor.fontLigatures": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.minimap.enabled": false,
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.tabCompletion": "on",
+    "files.associations": {
+        "*.ps1": "powershell"
+    },
+    "files.defaultLanguage": "powershell",
+    "json.maxItemsComputed": 10000,
+    "powershell.integratedConsole.forceClearScrollbackBuffer": true,
+    "powershell.powerShellDefaultVersion": "PowerShell 7",
+    "python.languageServer": "Pylance",
+    "settingsSync.ignoredSettings": [
+        "editor.fontFamily"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "none"
+}
