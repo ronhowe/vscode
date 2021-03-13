@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "holotable-tools",
+			"path": "..\\holotable-tools"
+		},
+		{
+			"name": "holotable",
+			"path": "..\\holotable"
+		},
+		{
+			"name": "swccg-card-json",
+			"path": "..\\swccg-card-json"
+		},
+		{
+			"name": "vscode",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
