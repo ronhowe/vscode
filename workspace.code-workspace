@@ -1,18 +1,6 @@
 {
 	"folders": [
 		{
-			"name": "bootstrap",
-			"path": "..\\bootstrap"
-		},
-		{
-			"name": "CleanArchitecture",
-			"path": "..\\CleanArchitecture"
-		},
-		{
-			"name": "code",
-			"path": "..\\code"
-		},
-		{
 			"name": "holotable",
 			"path": "..\\holotable"
 		},
