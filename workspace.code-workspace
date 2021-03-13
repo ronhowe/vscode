@@ -5,16 +5,20 @@
 			"path": "..\\bootstrap"
 		},
 		{
+			"name": "CleanArchitecture",
+			"path": "..\\CleanArchitecture"
+		},
+		{
+			"name": "DevSecOps",
+			"path": "..\\DevSecOps"
+		},
+		{
 			"name": "holotable",
 			"path": "..\\holotable"
 		},
 		{
 			"name": "holotable-tools",
 			"path": "..\\holotable-tools"
-		},
-		{
-			"name": "DevSecOps",
-			"path": "..\\DevSecOps"
 		},
 		{
 			"name": "ronhowe",
