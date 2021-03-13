@@ -1,16 +1,16 @@
 {
 	"folders": [
 		{
-			"name": "holotable-tools",
-			"path": "..\\holotable-tools"
+			"name": "bootstrap",
+			"path": "..\\bootstrap"
 		},
 		{
 			"name": "holotable",
 			"path": "..\\holotable"
 		},
 		{
-			"name": "swccg-card-json",
-			"path": "..\\swccg-card-json"
+			"name": "holotable-tools",
+			"path": "..\\holotable-tools"
 		},
 		{
 			"name": "DevSecOps",
@@ -19,6 +19,10 @@
 		{
 			"name": "ronhowe",
 			"path": "..\\ronhowe"
+		},
+		{
+			"name": "swccg-card-json",
+			"path": "..\\swccg-card-json"
 		},
 		{
 			"name": "vscode",
