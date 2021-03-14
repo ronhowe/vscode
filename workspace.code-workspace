@@ -1,20 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "code",
-			"path": "..\\code"
-		},
-		{
 			"name": "holotable",
 			"path": "..\\holotable"
 		},
 		{
 			"name": "holotable-tools",
 			"path": "..\\holotable-tools"
-		},
-		{
-			"name": "ronhowe",
-			"path": "..\\ronhowe"
 		},
 		{
 			"name": "swccg-card-json",
