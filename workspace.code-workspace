@@ -1,6 +1,10 @@
 {
 	"folders": [
 		{
+			"name": "bootstrap",
+			"path": "..\\bootstrap"
+		},
+		{
 			"name": "holotable",
 			"path": "..\\holotable"
 		},
@@ -9,10 +13,15 @@
 			"path": "..\\holotable-tools"
 		},
 		{
+			"name": "ronhowe",
+			"path": "..\\ronhowe"
+		},
+		{
 			"name": "swccg-card-json",
 			"path": "..\\swccg-card-json"
 		},
 		{
+			"name": "visual-studio-code",
 			"path": "."
 		}
 	],
