@@ -17,6 +17,10 @@
 			"path": "..\\ronhowe"
 		},
 		{
+			"name": "powershell",
+			"path": "..\\powershell"
+		},
+		{
 			"name": "swccg-card-json",
 			"path": "..\\swccg-card-json"
 		},
