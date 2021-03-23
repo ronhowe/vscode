@@ -13,12 +13,12 @@
 			"path": "..\\holotable-tools"
 		},
 		{
-			"name": "ronhowe",
-			"path": "..\\ronhowe"
-		},
-		{
 			"name": "powershell",
 			"path": "..\\powershell"
+		},
+		{
+			"name": "ronhowe",
+			"path": "..\\ronhowe"
 		},
 		{
 			"name": "swccg-card-json",
