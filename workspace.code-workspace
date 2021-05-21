@@ -1,6 +1,10 @@
 {
 	"folders": [
 		{
+			"name": "azure-data-studio",
+			"path": "..\\azure-data-studio"
+		},
+		{
 			"name": "bootstrap",
 			"path": "..\\bootstrap"
 		},
