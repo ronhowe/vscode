@@ -31,6 +31,9 @@
 		{
 			"name": "visual-studio-code",
 			"path": "."
+		},
+		{
+			"path": "..\\windows-terminal"
 		}
 	],
 	"settings": {}
